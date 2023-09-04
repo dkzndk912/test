@@ -1,5 +1,5 @@
 week02
-- linux command : ls, ls -al, pwd, cd .git, cd ..
+- linux command : ls, ls -al, pwd, cd .git, cd .. echo "bblblalbl" >> README.md cat README.md
   git command
   git init
   git status
@@ -8,3 +8,7 @@ week02
   git log
   git config --global user.email "you@example.com"
   git config --global user.name "your name"
+  git checkout hashcode
+  git checkout -
+  git branch -M main
+  
